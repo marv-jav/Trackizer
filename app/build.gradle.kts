@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.codestudio.trackizer"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.codestudio.trackizer"
