@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "477524120158",
+    "project_id": "trackizer-16f0f",
+    "storage_bucket": "trackizer-16f0f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477524120158:android:6dd224062afab144d9dacf",
+        "android_client_info": {
+          "package_name": "com.codestudio.trackizer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpS4vj4l4zyDyBf2TkwEbeHvSbmX1gZ9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
